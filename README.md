@@ -18,4 +18,4 @@ Welcome to my GitHub repository, where I showcase the results of my predictive m
 
 - **Project Description:** This project is centered around predicting passenger survival on the Titanic. I built a classification system that determines whether a person would have survived the tragic sinking. The predictive model analyzes various factors, including socio-economic status, age, gender, and more, to identify the key factors contributing to survival.
 
-For further contact or inquiries, please feel free to connect with me on [LinkedIn](#).
+For further contact or inquiries, please feel free to connect with me on https://www.linkedin.com/in/harsh-k-aade-144b51206 .
